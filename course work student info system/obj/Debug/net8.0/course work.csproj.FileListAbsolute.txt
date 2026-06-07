@@ -1,0 +1,42 @@
+C:\Users\abdo2\OneDrive\Desktop\course work\obj\Debug\net8.0\course work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdo2\OneDrive\Desktop\course work\obj\Debug\net8.0\course work.AssemblyInfoInputs.cache
+C:\Users\abdo2\OneDrive\Desktop\course work\obj\Debug\net8.0\course work.AssemblyInfo.cs
+C:\Users\abdo2\OneDrive\Desktop\course work\obj\Debug\net8.0\course work.csproj.CoreCompileInputs.cache
+C:\Users\abdo2\OneDrive\Desktop\course work\bin\Debug\net8.0\course work.exe
+C:\Users\abdo2\OneDrive\Desktop\course work\bin\Debug\net8.0\course work.deps.json
+C:\Users\abdo2\OneDrive\Desktop\course work\bin\Debug\net8.0\course work.runtimeconfig.json
+C:\Users\abdo2\OneDrive\Desktop\course work\bin\Debug\net8.0\course work.dll
+C:\Users\abdo2\OneDrive\Desktop\course work\bin\Debug\net8.0\course work.pdb
+C:\Users\abdo2\OneDrive\Desktop\course work\obj\Debug\net8.0\course work.dll
+C:\Users\abdo2\OneDrive\Desktop\course work\obj\Debug\net8.0\refint\course work.dll
+C:\Users\abdo2\OneDrive\Desktop\course work\obj\Debug\net8.0\course work.pdb
+C:\Users\abdo2\OneDrive\Desktop\course work\obj\Debug\net8.0\course work.genruntimeconfig.cache
+C:\Users\abdo2\OneDrive\Desktop\course work\obj\Debug\net8.0\ref\course work.dll
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\bin\Debug\net8.0\course work.exe
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\bin\Debug\net8.0\course work.deps.json
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\bin\Debug\net8.0\course work.runtimeconfig.json
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\bin\Debug\net8.0\course work.dll
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\bin\Debug\net8.0\course work.pdb
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\obj\Debug\net8.0\course work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\obj\Debug\net8.0\course work.AssemblyInfoInputs.cache
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\obj\Debug\net8.0\course work.AssemblyInfo.cs
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\obj\Debug\net8.0\course work.csproj.CoreCompileInputs.cache
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\obj\Debug\net8.0\course work.dll
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\obj\Debug\net8.0\refint\course work.dll
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\obj\Debug\net8.0\course work.pdb
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\obj\Debug\net8.0\course work.genruntimeconfig.cache
+C:\Users\abdo2\OneDrive\Desktop\course work student info system\obj\Debug\net8.0\ref\course work.dll
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\bin\Debug\net8.0\course work.exe
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\bin\Debug\net8.0\course work.deps.json
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\bin\Debug\net8.0\course work.runtimeconfig.json
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\bin\Debug\net8.0\course work.dll
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\bin\Debug\net8.0\course work.pdb
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\obj\Debug\net8.0\course work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\obj\Debug\net8.0\course work.AssemblyInfoInputs.cache
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\obj\Debug\net8.0\course work.AssemblyInfo.cs
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\obj\Debug\net8.0\course work.csproj.CoreCompileInputs.cache
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\obj\Debug\net8.0\course work.dll
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\obj\Debug\net8.0\refint\course work.dll
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\obj\Debug\net8.0\course work.pdb
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\obj\Debug\net8.0\course work.genruntimeconfig.cache
+C:\Users\abdo2\OneDrive\Desktop\projects gam3a\oop project\course work student info system\obj\Debug\net8.0\ref\course work.dll
